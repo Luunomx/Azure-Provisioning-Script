@@ -20,7 +20,7 @@ Innan du kör skriptet, se till att du har följande installerat:
 - **.NET SDK 9.0** – för att skapa och publicera MVC-applikationen.
 - **SSH & SCP** – för att kopiera filer och ansluta till den virtuella maskinen.
 
-Om du inte har Azure CLI installerat, kan du installera det med:
+Om du inte har Azure CLI installerat, kan du installera det med Git Bash:
 
 ```bash
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
